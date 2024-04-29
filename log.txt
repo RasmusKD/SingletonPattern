@@ -1,0 +1,4 @@
+test
+tekst
+This is a log message from logger1.
+This is another log message from logger2.
